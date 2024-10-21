@@ -3852,11 +3852,11 @@
             "texto1": "👋 ¡Bienvenido/a!\n@user",
             "texto2": "👋 ¡Hasta luego!\n@user",
             "texto3": "*[ ℹ️ ] @user AHORA ES ADMIN DE ESTE GRUPO 😼🫵*",
-            "texto4": "*[ ℹ️ ] @user FUE DESPEDIDO DE ADMIN 👍.*",
+            "texto4": "*[ ℹ️ ] @user FUE DESPEDIDO DE ADMIN👍.*",
             "texto5": "*[ ℹ️ ] LA DESCRIPCION DEL GRUPO FUE MODOFICADA 😼.*",
             "texto6": "*[ ℹ️ ] EL NOMBRE DEL GRUPO FUE MODIFICADO 😼🫵.*",
-            "texto7": "*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo.*",
-            "texto8": "*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido.*"
+            "texto7": "*[ ℹ️ ] SE ACTUALIZO LA FOTO DE PERFIL 👽.*",
+            "texto8": "*[ ℹ️ ] EL NOMBRE DEL GRUPO SE MODIFICO EXCELENTEMENTE 🫵.*"
         },
         "deleteUpdate": {
             "texto1": [
