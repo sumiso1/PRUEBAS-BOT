@@ -409,8 +409,8 @@ global.reloadHandler = async function(restatConn) {
   // busque la clave "handler" dentro del json y cámbiela si es necesario
   conn.welcome = '👋 ¡Bienvenido/a!\n@user';
   conn.bye = '👋 ¡Hasta luego!\n@user';
-  conn.spromote = '*[ ℹ️ ] @user AHORA ES ADMIN DE ESTE GRUPO
-   😼🫵ACCION REALIZADA POR @~+527421160806*';
+  conn.spromote = '*[ ℹ️ ] @user 𝗔𝗛𝗢𝗥𝗔 𝗘𝗦 𝗔𝗗𝗠𝗜𝗡 𝗗𝗘𝗟 𝗚𝗥𝗨𝗣𝗢
+    😼🫵𝗔𝗖𝗖𝗜𝗢𝗡 𝗥𝗘𝗔𝗟𝗜𝗭𝗔𝗗𝗔 𝗣𝗢𝗥 𝗚𝗥𝗜𝗡𝗖𝗛 𝗕𝗢𝗧*';
   conn.sdemote = '*[ ℹ️ ] @user DEJO DE SER ADMIN DE ESTE GRUPO 🥲*';
   conn.sDesc = '*[ ℹ️ ] LA DESCRIPCION HA SIDO MODIFICADA 🫡*';
   conn.sSubject = '*[ ℹ️ ] EL NOMBRE DEL GRUPO HA SIDO CAMBIADO EXITOSAMENTE🫡*';
