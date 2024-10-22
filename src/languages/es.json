@@ -10,7 +10,7 @@
             "texto3": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +92. Por lo tanto, serás eliminado del grupo.*"
         },
         "_antilink": {
-            "texto1": "*< ANTI-LINK />*_\n\n*[ ℹ️ ] ╰⊱💚⊱ *𝙀𝙓𝙄𝙏𝙊* ⊱💚⊱╮*𝘾𝙊𝙈𝙊 𝙀𝙍𝙀𝙎 𝘼𝘿𝙈𝙄𝙉 𝙀𝙉 𝙀𝙇 𝙂𝙍𝙐𝙋𝙊 𝙉𝙊 𝙎𝙀𝙍𝘼𝙎 𝙀𝙇𝙄𝙈𝙄𝙉𝘼𝘿𝙊 (𝘼)*",
+            "texto1": "*< ANTI-LINK />*_\n\n*[ ℹ️ ] ╰⊱💚⊱ 𝙀𝙓𝙄𝙏𝙊 ⊱💚⊱╮𝘾𝙊𝙈𝙊 𝙀𝙍𝙀𝙎 𝘼𝘿𝙈𝙄𝙉 𝙀𝙉 𝙀𝙇 𝙂𝙍𝙐𝙋𝙊 𝙉𝙊 𝙎𝙀𝙍𝘼𝙎 𝙀𝙇𝙄𝙈𝙄𝙉𝘼𝘿𝙊 (𝘼)",
             "texto2": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] El participante @user envió un enlace de un grupo de WhatsApp, por lo que será eliminado.*",
             "texto3": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Para que el anti-link funcione correctamente es necesario que el bot sea administrador del grupo.*",
             "texto4": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está deshabilitada.*"
@@ -3851,12 +3851,12 @@
         "participantsUpdate": {
             "texto1": "👋 ¡Bienvenido/a!\n@user",
             "texto2": "👋 ¡Hasta luego!\n@user",
-            "texto3": "*[ ℹ️ ] @user 𝘼𝙃𝙊𝙍𝘼 𝙀𝙎 𝘼𝘿𝙈𝙄𝙉 𝙀𝙉 𝙀𝙎𝙏𝙀 𝙂𝙍𝙐𝙋𝙊😼🫵𝘼𝘾𝘾𝙄𝙊𝙉 𝙍𝙀𝘼𝙇𝙄𝙕𝘼𝘿𝘼 𝙋𝙊𝙍: @user*",
+            "texto3": "*[ ℹ️ ] @user 𝗔𝗛𝗢𝗥𝗔 𝗘𝗦 𝗔𝗗𝗠𝗜𝗡 𝗗𝗘𝗟 𝗚𝗥𝗨𝗣𝗢 𝗔𝗖𝗖𝗜𝗢𝗡 𝗥𝗘𝗔𝗟𝗜𝗭𝗔𝗗𝗔 𝗣𝗢𝗥 𝗘𝗟 𝗔𝗗𝗠𝗜𝗡 𝗗𝗘𝗟 𝗚𝗥𝗨𝗣𝗢 😼🫵*",
             "texto4": "*[ ℹ️ ] @user DEJO DE ADMIN EN ESTE GRUPO 😸*",
             "texto5": "*[ ℹ️ ] LA DESCRIPCION DEL GRUPO FUE MODOFICADA 😼*",
             "texto6": "*[ ℹ️ ] EL NOMBRE DEL GRUPO FUE MODIFICADO 😼🫵*",
-            "texto7": "*[ ℹ️ ] SE ACTUALIZO LA FOTO DE PERFIL 👽.*",
-            "texto8": "*[ ℹ️ ] EL NOMBRE DEL GRUPO SE MODIFICO EXCELENTEMENT🫡E *"
+            "texto7": "*[ ℹ️ ] SE ACTUALIZO LA FOTO DE PERFIL 👽*",
+            "texto8": "*[ ℹ️ ] EL NOMBRE DEL GRUPO SE MODIFICO EXCELENTEMENTE 🫰*"
         },
         "deleteUpdate": {
             "texto1": [

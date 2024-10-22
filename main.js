@@ -409,12 +409,12 @@ global.reloadHandler = async function(restatConn) {
   // busque la clave "handler" dentro del json y cámbiela si es necesario
   conn.welcome = '👋 ¡Bienvenido/a!\n@user';
   conn.bye = '👋 ¡Hasta luego!\n@user';
-  conn.spromote = '*[ ℹ️ ] @user AHORA ES ADMIN DE ESTE GRUPO😼🫵 ACCION REALIZADA POR: @user*';
-  conn.sdemote = '*[ ℹ️ ] @user FUE DEGRADADO DE ADMIN 🥲.*';
-  conn.sDesc = '*[ ℹ️ ] LA DESCRIPCION HA SIDO MODIFICADA 🫡.*';
-  conn.sSubject = '*[ ℹ️ ] EL NOMBRE DEL GRUPO HA SIDO CAMBIADO EXITOSAMENTE 😼.*';
-  conn.sIcon = '*[ ℹ️ ] SE MODIFICO LA FOTO DE PERFIL DEL GRUPO 👍.*';
-  conn.sRevoke = '*[ ℹ️ ] El ENLACE SE RESTABLECIO EXITOSAMENTE 🫰.*';
+  conn.spromote = '*[ ℹ️ ] @user AHORA ES ADMIN DE ESTE GRUPO ACCION REALIZADA POR EL ADMIN DEL GRUPO✨🤪*';
+  conn.sdemote = '*[ ℹ️ ] @user DEJO DE SER ADMIN DE ESTE GRUPO 🥲*';
+  conn.sDesc = '*[ ℹ️ ] LA DESCRIPCION HA SIDO MODIFICADA 🫡*';
+  conn.sSubject = '*[ ℹ️ ] EL NOMBRE DEL GRUPO HA SIDO CAMBIADO EXITOSAMENTE🫡*';
+  conn.sIcon = '*[ ℹ️ ] SE MODIFICO LA FOTO DE PERFIL DEL GRUPO 👍*';
+  conn.sRevoke = '*[ ℹ️ ] El ENLACE SE RESTABLECIO EXITOSAMENTE 🫰*';
 
   conn.handler = handler.handler.bind(global.conn);
   conn.participantsUpdate = handler.participantsUpdate.bind(global.conn);
