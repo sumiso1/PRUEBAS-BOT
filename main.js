@@ -410,7 +410,7 @@ global.reloadHandler = async function(restatConn) {
   conn.welcome = '👋 ¡Bienvenido/a!\n@user';
   conn.bye = '👋 ¡Hasta luego!\n@user';
   conn.spromote = '*[ ℹ️ ] @user AHORA ES ADMIN DE ESTE GRUPO
-   😼🫵ACCION REALIZADA POR EL ADMIN DEL GRUPO*';
+   😼🫵ACCION REALIZADA POR @~+527421160806*';
   conn.sdemote = '*[ ℹ️ ] @user DEJO DE SER ADMIN DE ESTE GRUPO 🥲*';
   conn.sDesc = '*[ ℹ️ ] LA DESCRIPCION HA SIDO MODIFICADA 🫡*';
   conn.sSubject = '*[ ℹ️ ] EL NOMBRE DEL GRUPO HA SIDO CAMBIADO EXITOSAMENTE🫡*';
